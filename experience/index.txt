@@ -1,5 +1,5 @@
 1:HL["/modiprabal.github.io/_next/static/css/a732b3bcef363ff9.css","style"]
-0:["ksOMaIm7v_4perq3rHDHq",[[["",{"children":["experience",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/modiprabal.github.io/_next/static/css/a732b3bcef363ff9.css","precedence":"next"}]],"$L3"]]]]
+0:["Xu56OfVyYmlP7dYKao7Ug",[[["",{"children":["experience",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/modiprabal.github.io/_next/static/css/a732b3bcef363ff9.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":24657,"chunks":["895:static/chunks/895-c19e4646e959fee9.js","724:static/chunks/724-54412ffffc9fede6.js","185:static/chunks/app/layout-8df7c1c8d1f3a6b3.js"],"name":"ThemeProvider","async":false}
 5:I{"id":427,"chunks":["895:static/chunks/895-c19e4646e959fee9.js","724:static/chunks/724-54412ffffc9fede6.js","185:static/chunks/app/layout-8df7c1c8d1f3a6b3.js"],"name":"Navbar","async":false}
 6:I{"id":81443,"chunks":["272:static/chunks/webpack-f7f2f4eabf40c2f9.js","971:static/chunks/fd9d1056-842b4dd368972db5.js","864:static/chunks/864-15ff6fb9550ed466.js"],"name":"","async":false}
